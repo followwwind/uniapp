@@ -1,0 +1,21 @@
+[{
+	"id": 1,
+	"createTime": null,
+	"updateTime": null,
+	"cjyxm": "采集员1",
+	"bdbh": "228827",
+	"xb": "男",
+	"lxdh": "12322322232",
+	"lxdz": "辽宁省沈阳市",
+	"bz": "1"
+}, {
+	"id": 2,
+	"createTime": null,
+	"updateTime": null,
+	"cjyxm": "采集员2",
+	"bdbh": "338828",
+	"xb": "男",
+	"lxdh": "22233312",
+	"lxdz": "辽宁省沈阳市",
+	"bz": "2"
+}]

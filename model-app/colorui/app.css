@@ -1,0 +1,9 @@
+page {
+  height: 100%;
+}
+
+.bg {
+	background-image: url(/static/bg/bg.png) !important;
+	height: 100%;
+}
+
